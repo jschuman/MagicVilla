@@ -32,6 +32,5 @@
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
     <Folder Include="Models\Dto\" />
-    <Folder Include="Data\" />
   </ItemGroup>
 </Project>
